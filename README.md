@@ -14,4 +14,8 @@ output – contains the resulting images from restoration and detection.
 
 weight – stores the model weights used.
 
-Model weights and more test images will be released after the paper is published.
+trainMaskT - Script for the teacher model training
+
+trainMaskKL - Script for the proposed OSRNet training
+
+Model weights, the completed training program, and more test images will be released after the paper is published.
