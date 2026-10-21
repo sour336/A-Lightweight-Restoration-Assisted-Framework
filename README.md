@@ -60,6 +60,7 @@ Obtain the index files for the training set and validation set: train_list_mask.
 1.Train the teacher model first
 
     run trainMaskT.py
+
 2.Then train the student model
 
     run trainMask-KL.py
