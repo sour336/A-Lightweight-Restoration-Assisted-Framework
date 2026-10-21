@@ -85,13 +85,13 @@ The restored images will be saved in the directory: ./TestData/Output/
 
 1.Place input images in ./example/img/
 
-2.Picking keypoint detection:
+2.Stem segmentation:
     
     run stemSeg.py
 
 The output images will be stored in ./example/output/seg/   
 
-3.for keypoint task:
+3.Picking keypoint detection:
     
     run stemPoint.py
     
