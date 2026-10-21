@@ -1,0 +1,4 @@
+./Dataset/train/img\1000735.png ./Dataset/train/lab\1000735.png ./Dataset/train/mask\1000735.png
+./Dataset/train/img\2000885.png ./Dataset/train/lab\2000885.png ./Dataset/train/mask\2000885.png
+./Dataset/train/img\3002764.png ./Dataset/train/lab\3002764.png ./Dataset/train/mask\3002764.png
+./Dataset/train/img\4000364.png ./Dataset/train/lab\4000364.png ./Dataset/train/mask\4000364.png
